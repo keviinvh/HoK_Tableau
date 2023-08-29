@@ -43,4 +43,6 @@ The dashboard below is the dashboard displaying average video game sales for the
 
 ![Other Video Game Sales](Photos/vgsales/odashboard.png)
 
+I have the dashboards color-coded to prevent human error. When looking at the data, I would not want a client to forget which sheet they are on and interpret the data for the wrong location.
+
 All of these dashboards are interactive, click on the link in the title to check it out!
